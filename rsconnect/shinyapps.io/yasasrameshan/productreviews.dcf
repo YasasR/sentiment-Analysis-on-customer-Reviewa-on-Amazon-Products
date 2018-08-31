@@ -1,0 +1,10 @@
+name: productreviews
+title:
+username:
+account: yasasrameshan
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 414976
+bundleId: 1563987
+url: https://reviewsentimentanalysis.shinyapps.io/productreviews/
+when: 1535735568.59006
